@@ -1,3 +1,41 @@
 <resources>
     <string name="app_name">weather_show</string>
+    <string name="back">Назад</string>
+    <string name="feels_like">Ощущается как %1$d°C</string>
+    <string name="humidity_format">Влажность: %1$.0f%%</string>
+    <string name="chance_of_rain_format">Вероятность дождя: %1$d%%</string>
+    <string name="wind_speed_format">Ветер: %1$.1f км/ч</string>
+    <string name="temp_unit">%1$d°C</string>
+    <string name="daily_temp_format">День: %1$d°  Ночь: %2$d°</string>
+    <string name="today">Сегодня</string>
+    <string name="tomorrow">Завтра</string>
+    <string name="error">Ошибка</string>
+    <string name="city_not_found">Город не найден</string>
+    <string name="weekly_forecast">Прогноз на неделю</string>
+    <string name="date_with_desc">%1$s — %2$s</string>
+    <string name="loading_forecast">Загрузка прогноза...</string>
+    <string name="unable_to_load_forecast">Не удалось загрузить прогноз</string>
+
+    <string name="weather_clear">Ясно</string>
+    <string name="weather_mostly_clear">Преимущественно ясно</string>
+    <string name="weather_partly_cloudy">Переменная облачность</string>
+    <string name="weather_overcast">Пасмурно</string>
+    <string name="weather_fog">Туман</string>
+    <string name="weather_drizzle">Морось</string>
+    <string name="weather_freezing_drizzle">Ледяная морось</string>
+    <string name="weather_rain">Дождь</string>
+    <string name="weather_freezing_rain">Ледяной дождь</string>
+    <string name="weather_snow">Снег</string>
+    <string name="weather_snow_grains">Снежные зерна</string>
+    <string name="weather_rain_showers">Ливень</string>
+    <string name="weather_snow_showers">Снежный ливень</string>
+    <string name="weather_thunderstorm">Гроза</string>
+    <string name="weather_thunderstorm_hail">Гроза с градом</string>
+    <string name="weather_code_format">Код %1$d</string>
+
+    <string name="city_izhevsk">Ижевск</string>
+    <string name="city_moscow">Москва</string>
+    <string name="city_spb">Санкт-Петербург</string>
+    <string name="city_kazan">Казань</string>
+    <string name="city_sochi">Сочи</string>
 </resources>
